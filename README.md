@@ -13,7 +13,7 @@ install & using :
 
 
 
-$ sudo git clone https://github.com/d5tr/wifi.git
+* sudo git clone https://github.com/d5tr/wifi.git
 
 
 
