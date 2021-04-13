@@ -4,7 +4,7 @@
 
 
 
- *install & using :
+ * install & using :
 
 
 
@@ -17,17 +17,17 @@
 
 
 
-$ cd wifi
+* cd wifi
 
 
 !! you must be root !!
 
 
 
-$ python3 download_wifi.py
+* python3 download_wifi.py
 
 
 
-$ python3 wifi.py
+* python3 wifi.py
 
 
