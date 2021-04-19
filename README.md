@@ -1,33 +1,29 @@
 # wifi
 
-# for wifi hacking !!!
+# Use 
+
+
+```
+$ sudo git clone https://github.com/d5tr/wifi.git
+```
+```
+$ cd wifi
+```
+```
+$ pythin3 upload.py
+```
+```
+$ sudo su
+```
+```
+$ python3 wifi.py
+```
 
 
 
- * install & using :
+* this tool easy for use ...
+* good for handshake !
+* Enjoy ...
 
-
-
-
-!! for kali linux only !!
-
-
-
-* sudo git clone https://github.com/d5tr/wifi.git
-
-
-
-* cd wifi
-
-
-!! you must be root !!
-
-
-
-* python3 download_wifi.py
-
-
-
-* python3 wifi.py
-
-
+[Instagram](https://instagram.com/d_5tr)
+[Telegram](https://t.me/d5tr_Cyber)
