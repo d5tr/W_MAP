@@ -10,7 +10,7 @@ $ sudo git clone https://github.com/d5tr/wifi.git
 $ cd wifi
 ```
 ```
-$ pythin3 upload.py
+$ sudo pythin3 download_wifi.py
 ```
 ```
 $ sudo su
