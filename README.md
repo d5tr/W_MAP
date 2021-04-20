@@ -2,19 +2,23 @@
 
 # Use 
 
-
+* download :
 ```
 $ sudo git clone https://github.com/d5tr/wifi.git
 ```
+* go to folder :
 ```
 $ cd wifi
 ```
+* download all libarary :
 ```
-$ sudo pythin3 download_wifi.py
+$ sudo python3 download_wifi.py
 ```
+* take root user :
 ```
 $ sudo su
 ```
+* run tool :
 ```
 $ python3 wifi.py
 ```
