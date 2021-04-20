@@ -12,7 +12,9 @@ $ cd wifi
 ```
 * download all libarary :
 ```
-$ sudo python3 download_wifi.py
+$ sudo chmod +x download_wifi.sh
+
+$ ./download_wifi.sh
 ```
 * take root user :
 ```
