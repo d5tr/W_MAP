@@ -1,5 +1,3 @@
-# wifi
-
 # what the tool ?
 
 * this tool easy for use ...
