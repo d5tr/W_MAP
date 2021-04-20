@@ -30,7 +30,7 @@ $ sudo su
 $ python3 wifi.py
 ```
 
-# follow me 
+# follow me :
 
 
 [Instagram](https://instagram.com/d_5tr)
