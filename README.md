@@ -1,35 +1,36 @@
 # wifi
 
-# Use 
+# what the tool ?
 
-* download :
+* this tool easy for use ...
+* good for handshake !
+* Enjoy ...
+
+
+# Installation :
+*
 ```
 $ sudo git clone https://github.com/d5tr/wifi.git
 ```
-* go to folder :
+*
 ```
 $ cd wifi
 ```
-* download all libarary :
+* 
 ```
 $ sudo chmod +x download_wifi.sh
 
 $ ./download_wifi.sh
 ```
-* take root user :
+# Usage :
+
 ```
 $ sudo su
 ```
-* run tool :
+*
 ```
 $ python3 wifi.py
 ```
-
-# tool
-
-* this tool easy for use ...
-* good for handshake !
-* Enjoy ...
 
 # follow me 
 
