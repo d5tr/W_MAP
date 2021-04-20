@@ -102,7 +102,7 @@ X     `-.....-------./ /
 '           *MMMMMh   "MMMMM"   JMMMMMMP
 '             MMMMMM   3MMMM.  dMMMMMM            .
 '              MMMMMM  "MMMM  .MMMMM(        .nnMP"
-'  =..          *MMMMx  MMM"  dMMMM"    .nnMMMMM*          Programming like drink weed !!
+'  =..          *MMMMx  MMM"  dMMMM"    .nnMMMMM*          Programming like smoking weed !!
 '    "MMn...     'MMMMr 'MM   MMM"   .nMMMMMMM*"        
 '     "4MMMMnn..   *MMM  MM  MMP"  .dMMMMMMM""
 '       ^MMMMMMMMx.  *ML "M .M*  .MMMMMM**"               
