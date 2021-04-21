@@ -2,7 +2,7 @@ from scapy.all import *  # for sniff wifi ...
 from colorama import Fore  # for color ...
 from time import sleep
 from scapy.all import ARP , Ether, srp
-from wifi_hack import ban
+import ban
 
 
 def slowly(slows):
