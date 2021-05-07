@@ -17,6 +17,7 @@ $ cd wifi
 * 
 ```
 $ sudo chmod +x download_wifi.sh
+$ sudo chmod +x password_wifi.sh
 
 $ ./download_wifi.sh
 ```
