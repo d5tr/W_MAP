@@ -1,26 +1,27 @@
 # what the tool ?
 
-* this tool easy for use ...
-* good for handshake !
-* Enjoy ...
+* for hacking WI-FI
+* easy to use 
+* Please do not use it for anything illegal !
 
 
 # Installation :
 *
 ```
-$ sudo git clone https://github.com/d5tr/wifi.git
+$ sudo git clone https://github.com/d5tr/W-MAP.git
 ```
 *
 ```
-$ cd wifi
+$ cd W-MAP
 ```
 * 
 ```
-$ sudo chmod +x download_wifi.sh
-$ sudo chmod +x password_wifi.sh
-
-$ ./download_wifi.sh
+$ sudo chmod +x download_W-MAP.sh
 ```
+```
+$ sudo ./download_W-MAP.sh
+```
+
 # Usage :
 
 ```
@@ -28,7 +29,7 @@ $ sudo su
 ```
 *
 ```
-$ python3 wifi.py
+$ python3 W-MAP.py
 ```
 
 # follow me :
