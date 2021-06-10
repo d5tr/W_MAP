@@ -1,7 +1,8 @@
 # what the tool ?
 
-* for hacking WI-FI
-* easy to use 
+* For hacking WI-FI
+* Easy to use 
+* 8 Options helps you in network penetration testing
 * Please do not use it for anything illegal !
 
 ![W-MAP](https://github.com/d5tr/W-MAP/blob/main/W-m.png)
