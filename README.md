@@ -10,21 +10,19 @@
 
 
 # Installation :
-*
+
 ```
 $ sudo git clone https://github.com/d5tr/W-MAP.git
 ```
-*
 ```
 $ cd W-MAP
 ```
-* 
 ```
 $ sudo chmod +x download_W-MAP.sh
 ```
 ```
 $ sudo ./download_W-MAP.sh
-OR
+OR :
 $ sudo bash download_W-MAP
 ```
 
@@ -33,7 +31,6 @@ $ sudo bash download_W-MAP
 ```
 $ sudo su
 ```
-*
 ```
 $ python3 W-MAP.py
 ```
