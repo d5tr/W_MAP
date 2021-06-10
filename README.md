@@ -4,6 +4,9 @@
 * easy to use 
 * Please do not use it for anything illegal !
 
+![W-MAP](https://github.com/d5tr/W-MAP/blob/main/W-m.png)
+
+
 
 # Installation :
 *
