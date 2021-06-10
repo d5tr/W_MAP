@@ -20,6 +20,8 @@ $ sudo chmod +x download_W-MAP.sh
 ```
 ```
 $ sudo ./download_W-MAP.sh
+OR
+$ sudo bash download_W-MAP
 ```
 
 # Usage :
