@@ -35,8 +35,8 @@ $ python3 W-MAP.py
 # follow me :
 
 
-[Instagram](https://instagram.com/d_5tr)
+* [Instagram](https://instagram.com/d_5tr)
 
 
 
-[Telegram](https://t.me/d5tr_Cyber)
+* [Telegram](https://t.me/d5tr_Cyber)
