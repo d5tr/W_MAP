@@ -64,7 +64,7 @@ def d5tr(): # banaer ...
 
 
 
-
+    # for choose 
     import inquirer
     questions = [
         inquirer.List('size',
@@ -181,12 +181,12 @@ def d5tr(): # banaer ...
             if pkt.haslayer(TCP):
                 print("===============================")
                 print(Fore.RED + "<<<  TCP  >>>")
-                src_ip = pkt[IP].src  # الايبي
-                dst_ip = pkt[IP].dst
-                mac_src = pkt.src  # الماك ادرس
-                mac_dst = pkt.dst
-                src_port = pkt.sport  # البورت الي طلع منه
-                dst_port = pkt.dport
+                src_ip = pkt[IP].src  # IP sender
+                dst_ip = pkt[IP].dst # IP server
+                mac_src = pkt.src  # MAC sender
+                mac_dst = pkt.dst  # MAC server
+                src_port = pkt.sport  # PORT sender
+                dst_port = pkt.dport  # PORT server
 
                 print(Fore.GREEN+"[MAC SRC FROM] = " + mac_src)
                 print(Fore.GREEN+"[MAC DST TO] = " + mac_dst)
@@ -210,7 +210,7 @@ def d5tr(): # banaer ...
                 dst_ip = pkt[IP].dst
                 mac_src = pkt.src
                 mac_dst = pkt.dst
-                src_port = pkt.sport  # البورت الي طلع منه
+                src_port = pkt.sport  # like TCP in up
                 dst_port = pkt.dport
                 print(Fore.RED+"[MAC SRC FROM] = " + mac_src)
                 print(Fore.RED+"[MAC DST TO] =" + mac_dst)
