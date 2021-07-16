@@ -235,6 +235,7 @@ def d5tr(): # banaer ...
                 d5tr()
 
         elif choose_daeuth == 99 :
+            os.system('clear')
             d5tr()
 
     elif what == 8: # ARP spoofing
