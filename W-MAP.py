@@ -76,6 +76,7 @@ def d5tr(): # banaer ...
             except:
                 print('Error can"t do it ...')
                 time.sleep(1)
+                os.system('clear')
                 d5tr()
 
         elif what_hand == 3 :
@@ -95,6 +96,7 @@ def d5tr(): # banaer ...
             except:
                 print('Erorr can"t do it ...')
                 time.sleep(1)
+                os.system('clear')
                 d5tr()
 
         elif what_hand == 99:
