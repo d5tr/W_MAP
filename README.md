@@ -1,8 +1,9 @@
 # what the tool ?
 
-* For hacking WI-FI
+* For hacking WI-FI and attack WI-FI
 * Easy to use 
-* 8 Options helps you in network penetration testing
+* 9 Options helps you in network penetration testing
+* Spoofing and deauth and Handshake and more ...
 * Please do not use it for anything illegal !
 
 ![W-MAP](https://github.com/d5tr/W_MAP/blob/main/Photox.png)
@@ -12,27 +13,27 @@
 # Installation :
 
 ```
-$ sudo git clone https://github.com/d5tr/W-MAP.git
+$ sudo git clone https://github.com/d5tr/W_MAP.git
 ```
 ```
-$ cd W-MAP
+$ cd W_MAP
 ```
 ```
-$ sudo chmod +x download_W-MAP.sh
+$ sudo chmod +x installer.sh
 ```
 ```
-$ sudo ./download_W-MAP.sh
+$ sudo ./installer.sh
 OR :
-$ sudo bash download_W-MAP
+$ sudo bash installer.sh
 ```
 
 # Usage :
 
 ```
 $ sudo su
-```
-```
 $ python3 W-MAP.py
+OR :
+$ sudo python3 W-MAP.py
 ```
 
 ![W_MAP](https://github.com/d5tr/W_MAP/blob/main/Videox.gif)
