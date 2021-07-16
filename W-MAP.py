@@ -45,6 +45,7 @@ def d5tr(): # banaer ...
 
 
             if KeyboardInterrupt :
+                print('\n')
                 interfaces()
                 Monitor = input(f'[{Fore.CYAN}?{Fore.WHITE}] Enter name interface to disable Monitor mode : ')
                 os.system(f'airmon-ng stop {Monitor}')
@@ -63,6 +64,7 @@ def d5tr(): # banaer ...
                 os.system('bash Handshake/handshake_wep.sh')
 
                 if KeyboardInterrupt:
+                    print('\n')
                     interfaces()
                     Monitor = input(f'[{Fore.CYAN}?{Fore.WHITE}] Enter name interface to disable Monitor mode : ')
                     os.system(f'airmon-ng stop {Monitor}')
@@ -82,6 +84,7 @@ def d5tr(): # banaer ...
             try:
                 os.system('bash Handshake/handshake_wpa.sh')
                 if KeyboardInterrupt:
+                    print('\n')
                     interfaces()
                     Monitor = input(f'[{Fore.CYAN}?{Fore.WHITE}] Enter name interface to disable Monitor mode : ')
                     os.system(f'airmon-ng stop {Monitor}')
@@ -162,6 +165,7 @@ def d5tr(): # banaer ...
             os.system('bash rest_of_tools/Fake_wifi.sh')
 
             if KeyboardInterrupt :
+                print('\n')
                 interfaces()
                 Monitor = input(f'[{Fore.CYAN}?{Fore.WHITE}] Enter name interface to disable Monitor mode : ')
                 os.system(f'airmon-ng stop {Monitor}')
@@ -200,6 +204,7 @@ def d5tr(): # banaer ...
             os.system('bash Deauth_attack/Deauth_attack_WIFI_aireplay.sh')
 
             if KeyboardInterrupt:
+                print('\n')
                 interfaces()
                 Monitor = input(f'[{Fore.CYAN}?{Fore.WHITE}] Enter name interface to disable Monitor mode : ')
                 os.system(f'airmon-ng stop {Monitor}')
@@ -214,6 +219,7 @@ def d5tr(): # banaer ...
             os.system('bash Deauth_attack/Deauth_attack_WIFI_mdk3.sh')
 
             if KeyboardInterrupt:
+                print('\n')
                 interfaces()
                 Monitor = input(f'[{Fore.CYAN}?{Fore.WHITE}] Enter name interface to disable Monitor mode : ')
                 os.system(f'airmon-ng stop {Monitor}')
@@ -227,6 +233,7 @@ def d5tr(): # banaer ...
 
             os.system('bash Deauth_attack/Deauth_one_device_aireplay.sh')
             if KeyboardInterrupt:
+                print('\n')
                 interfaces()
                 Monitor = input(f'[{Fore.CYAN}?{Fore.WHITE}] Enter name interface to disable Monitor mode : ')
                 os.system(f'airmon-ng stop {Monitor}')
