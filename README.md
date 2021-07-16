@@ -35,6 +35,8 @@ $ sudo su
 $ python3 W-MAP.py
 ```
 
+![W_MAP](https://github.com/d5tr/W_MAP/blob/main/Videox.gif)
+
 # follow me :
 
 
