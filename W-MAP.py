@@ -141,6 +141,7 @@ def d5tr(): # banaer ...
         except:
             print("Error : can't scan ip or wifi can't scan !!")
             time.sleep(1)
+            os.system('clear')
             d5tr()
 
         if KeyboardInterrupt:
