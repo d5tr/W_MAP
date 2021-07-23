@@ -2,11 +2,11 @@
 
 * For hacking WI-FI and attack WI-FI
 * Easy to use 
-* 9 Options helps you in network penetration testing
+* 14 Options helps you in network penetration testing
 * Spoofing and deauth and Handshake and more ...
 * Please do not use it for anything illegal !
 
-![W-MAP](https://github.com/d5tr/W_MAP/blob/main/Photox.png)
+![W-MAP](https://github.com/d5tr/W_MAP/blob/main/map.png)
 
 
 
