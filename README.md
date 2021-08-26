@@ -31,9 +31,9 @@ $ sudo bash installer.sh
 
 ```
 $ sudo su
-$ python3 W-MAP.py
-OR :
-$ sudo python3 W-MAP.py
+```
+```
+$ W-MAP
 ```
 
 
